@@ -6,7 +6,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone <repository_url>
+git clone <[repository_url](https://github.com/yiromo/loginregisterNode)>
 Install dependencies:
 
 Copy code
