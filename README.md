@@ -1,14 +1,7 @@
+#Login & Register Using Node.js & PostgreSQL
+- gitclone: https://github.com/yiromo/loginregisterNode.git
 
-Copy code
-npm install
-Set up your environment variables:
 
-Create a .env file in the root directory.
-
-Add the following variables:
-
-makefile
-Copy code
 PORT=3000
 SESSION_SECRET=Your_Session_Secret_Here
 DATABASE_URL=Your_Database_URL_Here
