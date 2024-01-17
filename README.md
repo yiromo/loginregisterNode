@@ -1,13 +1,3 @@
-Passport Authentication System
-This is a simple authentication system using Passport.js, Express, bcrypt, and PostgreSQL for user registration and login.
-
-Setup
-Clone the repository:
-
-bash
-Copy code
-git clone <[repository_url](https://github.com/yiromo/loginregisterNode)>
-Install dependencies:
 
 Copy code
 npm install
